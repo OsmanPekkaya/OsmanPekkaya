@@ -1,34 +1,20 @@
-<h1 align="center">Hi 👋 I'm Unrendered</h1>
-<h3 align="center">Unrendered Mind • Rendered Worlds</h3>
+<h1 align="center">Unrendered</h1>
+<p align="center">3D Artist • Game Developer • Founder of URD Studio</p>
 
 ---
 
-### 🚀 About Me
-- 🎮 Game Developer
-- 🎨 3D Artist (Blender)
-- 🧠 Creative World Builder
-- 🏢 Founder of URD Studio
+### About
+I build digital worlds using Blender and game engines.  
+Focused on clean design, stylized environments and immersive systems.
 
 ---
 
-### 🔭 Currently Working On
-- Indie Game Projects
-- 3D Environment Designs
-- Stylized Character Models
+### Currently
+- 3D Environment Design
+- Indie Game Development
+- Improving rendering workflows
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Blender Techniques
-- Game Optimization
-- Unreal & Unity Mechanics
-
----
-
-### 💬 Ask Me About
-Blender • Game Design • 3D Modeling • Creative Ideas
-
----
-
-### ⚡ Fun Fact
-I don't just render models. I render universes.
+### Tools
+Blender • Unity • Unreal • Git
