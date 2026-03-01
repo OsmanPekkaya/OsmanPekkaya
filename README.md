@@ -17,4 +17,4 @@ Focused on clean design, stylized environments and immersive systems.
 ---
 
 ### Tools
-Blender • Unity • Unreal • Git
+Blender • Unity • Unreal 
