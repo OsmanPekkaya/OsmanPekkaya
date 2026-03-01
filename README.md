@@ -18,3 +18,7 @@ Focused on clean design, stylized environments and immersive systems.
 
 ### Tools
 Blender • Unity • Unreal 
+
+
+
+![snake gif](https://github.com/OsmanPekkaya/OsmanPekkaya/blob/output/github-snake-dark.svg)
