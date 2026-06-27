@@ -1,5 +1,5 @@
 <h1 align="center">Unrendered</h1>
-<p align="center">3D Artist • Game Developer • Founder of URD Studio</p>
+<p align="center">3D Artist • Game Developer • Developer</p>
 
 ---
 
@@ -21,4 +21,3 @@ Blender • Unity • Unreal
 
 
 
-![snake gif](https://github.com/OsmanPekkaya/OsmanPekkaya/blob/output/github-snake-dark.svg)
